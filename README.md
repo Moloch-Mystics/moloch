@@ -1,7 +1,9 @@
 # Moloch v3 `MMMoloch`
 - `More Modular Moloch` design to reduce size limit constraints on DAO Member Executable Code
 > Tokenized Shares
+
 > Whitelisting Scheme
+
 > External Experiments (Minions)
 
 # Moloch v2x `LEXMOL`:
