@@ -6,7 +6,7 @@
 
 # Moloch v2x:
 [![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
-> LexDAO & RaidGuild upgrade MolochDAO 2 v3
+> LexDAO & RaidGuild upgrade MolochDAO 2 v3 *ish*
 
 ***UPGRADES INCLUDE:***
 
