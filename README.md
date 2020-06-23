@@ -1,6 +1,7 @@
 # Moloch v3 `MMMoloch`
 - `More Modular Moloch` design to reduce size limit constraints on DAO Member Executable Code
 > Tokenized Shares
+
 > Generalized Proxy (MinionX)
 
 # Moloch v2x:
