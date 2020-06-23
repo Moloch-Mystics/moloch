@@ -1,10 +1,7 @@
 # Moloch v3 `MMMoloch`
 - `More Modular Moloch` design to reduce size limit constraints on DAO Member Executable Code
 > Tokenized Shares
-
-> Whitelisting Scheme
-
-> External Experiments (Minions)
+> Generalized Proxy (MinionX)
 
 # Moloch v2x:
 [![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
