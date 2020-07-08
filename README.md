@@ -1,37 +1,35 @@
 # Moloch v3 `MMMoloch`
-- `More Modular Moloch` design to reduce size limit constraints on DAO Member Executable Code
+- `More Modular Moloch` design to reduce size limit constraints on DAO Executable Code
 > Tokenized Shares
+> Upgradeable Governance
 
-> Generalized Proxy (MinionX)
+***2X UPGRADES INCLUDE:***
 
-# Moloch v2x:
-[![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
-> LexDAO & RaidGuild upgrade MolochDAO 2 v3 *ish*
+* **Summoning _Circle** 🔥 👹 🔥
+> Summoning Circle / [array] / votes in other members / decides fair shares going fwd
 
-***UPGRADES INCLUDE:***
+* **_Deposit** 💰 
+> Moloch Summoner can forward `depositToken` sum into new DAO / Summoners can be credited a starting `summonerStake` 
 
-* **Summoning Circle** 🕯️🕯️🕯️
-> begin with group of Summoners to vote in other members / decide fair share split going fwd
+* **_Sale** ⌛ 
+> Summoning Circle can buy votes at `summoningRate` w/ `depositToken` tribute before `summoningTermination` period
 
-* **Embedded Minion** 🔥👺🔥
-> begin with pre-programmed Minion to execute external txs for member votes
+* **_Minion** 👺
+> `Moloch` w/ `Minion` summoned that allows execution of arbitrary calls voted on by members 
 
 ***misc:***
 
-* most recent [OpenZeppelin contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts)
+* most recent [OpenZeppelin contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts) w/ trimmed comments / error msgs.
 * housekeeping updates to remove warnings: [PR](https://github.com/MolochVentures/moloch/pull/86)
+* gas/size savings measures / etc.
 
 These upgrades also reflect a 'more modular Moloch' design, using dual-summoning addresses to expand codebase executing votes.
 
-***try things out:*** 🧙
+***try things out:*** 🧙 *2x BETA* / Summoning Circle Sale w/ Minion /
 
->[Mainnet Summoner](https://etherscan.io/address/0xC6A36b65ab6FBF7a8d2307251F1dE1A9a6Ed549d#code)
+>[Mainnet Summoner](https://etherscan.io/address/0xbC0DebF459D6389599F193EaE6A7B22a67974020#code)
 
->[Rinkeby Summoner](https://rinkeby.etherscan.io/address/0x4d31e3c4571a0acFD2cCA5c4E274ceD4782d7B31#code)
-
-***open questions . . .***
-
-* add ERC-1404 wrapper for LOOT?
+>[Rinkeby Summoner](https://rinkeby.etherscan.io/address/0xf4B4B807f1b9deC1E6D1590A2ff8A4EB0C4F3F16#code)
 
 STEAL THIS CODE
 
