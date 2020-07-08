@@ -1,6 +1,7 @@
 # Moloch v3 `MMMoloch`
 - `More Modular Moloch` design to reduce size limit constraints on DAO Executable Code
 > Tokenized Shares
+
 > Upgradeable Governance
 
 ***2X UPGRADES INCLUDE:***
