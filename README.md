@@ -1,36 +1,7 @@
 # Moloch v3 `MMMoloch`
 - `More Modular Moloch` design to reduce size limit constraints on DAO Executable Code
-> Tokenized Shares
 
-> Upgradeable Governance
-
-***2X UPGRADES INCLUDE:***
-
-* **Summoning _Circle** 🔥 👹 🔥
-> Summoning Circle / [array] / votes in other members / decides fair shares going fwd
-
-* **_Deposit** 💰 
-> Moloch Summoner can forward `depositToken` sum into new DAO / Summoners can be credited a starting `summonerStake` 
-
-* **_Sale** ⌛ 
-> Summoning Circle can buy votes at `summoningRate` w/ `depositToken` tribute before `summoningTermination` period
-
-* **_Minion** 👺
-> `Moloch` w/ `Minion` summoned that allows execution of arbitrary calls voted on by members 
-
-***misc:***
-
-* most recent [OpenZeppelin contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts) w/ trimmed comments / error msgs.
-* housekeeping updates to remove warnings: [PR](https://github.com/MolochVentures/moloch/pull/86)
-* gas/size savings measures / etc.
-
-These upgrades also reflect a 'more modular Moloch' design, using dual-summoning addresses to expand codebase executing votes.
-
-***try things out:*** 🧙 *2x BETA* / Summoning Circle Sale w/ Minion /
-
->[Mainnet Summoner](https://etherscan.io/address/0xbC0DebF459D6389599F193EaE6A7B22a67974020#code)
-
->[Rinkeby Summoner](https://rinkeby.etherscan.io/address/0xf4B4B807f1b9deC1E6D1590A2ff8A4EB0C4F3F16#code)
+[WIP]
 
 STEAL THIS CODE
 
